@@ -6,7 +6,7 @@ Professional  A modern and responsive personal portfolio website built with HTML
 This is my **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
 It highlights my **skills, education, services, projects, and contact information** in a modern and responsive layout.
 
-🔗 **Live Demo**: [Add GitHub Pages / Netlify / Vercel link here]
+🔗 **Live Demo**: (https://github.com/Nikhil870035/My_Portfolio_)
 
 ---
 
